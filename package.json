@@ -35,7 +35,7 @@
   "homepage": "https://github.com/akhil-naidu/md_s3",
   "name": "md_s3",
   "peerDependencies": {
-    "md_mudoc-lite": ">=1.8.6"
+    "md_mudoc-lite": ">=0.0.2"
   },
   "repository": {
     "type": "git",
