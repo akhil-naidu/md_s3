@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ajeje Brazorf"
+		]
+	},
+	"md_s3.toolbar.image_upload.title": "Càrrica mmàggini",
+	"md_s3.error.fileSize": "Lu file è troppu granni",
+	"md_s3.error.fileType": "Tipu di file nun vàlidu"
+}

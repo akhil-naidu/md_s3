@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yardom78"
+		]
+	},
+	"md_s3.toolbar.image_upload.title": "Nahrať obrázok",
+	"md_s3.error.fileSize": "Súbor je príliš veľký",
+	"md_s3.error.fileType": "Neplatný typ súboru"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sabelöga"
+		]
+	},
+	"md_s3.toolbar.image_upload.title": "Ladda upp bild",
+	"md_s3.error.fileSize": "Filen är för stor",
+	"md_s3.error.fileType": "Ogiltig filtyp"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joseph"
+		]
+	},
+	"md_s3.toolbar.image_upload.title": "Resim yükle",
+	"md_s3.error.fileSize": "Dosya çok büyük",
+	"md_s3.error.fileType": "Geçersiz dosya türü"
+}

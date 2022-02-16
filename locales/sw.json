@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andibecker"
+		]
+	},
+	"md_s3.toolbar.image_upload.title": "Pakia picha",
+	"md_s3.error.fileSize": "Faili ni kubwa mno",
+	"md_s3.error.fileType": "Aina ya faili si sahihi"
+}

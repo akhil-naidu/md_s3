@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kareyac",
+			"Okras",
+			"Pacha Tchernof"
+		]
+	},
+	"md_s3.toolbar.image_upload.title": "Загрузить изображение",
+	"md_s3.error.title": "Ошибка",
+	"md_s3.error.fileSize": "Файл слишком большой! Максимально допустимый размер составляет {{maxallowed}} МБ.",
+	"md_s3.error.fileType": "Недействительный тип файла!"
+}

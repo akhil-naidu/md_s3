@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Verdy p"
+		]
+	},
+	"md_s3.toolbar.image_upload.title": "Téléverser une image",
+	"md_s3.error.title": "Erreur",
+	"md_s3.error.fileSize": "Le fichier est trop gros ! La taille maximale autorisée est de {{maxallowed}} Mio.",
+	"md_s3.error.fileType": "Type de fichier incorrect !"
+}

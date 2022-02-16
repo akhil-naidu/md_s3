@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Georg101"
+		]
+	},
+	"md_s3.toolbar.image_upload.title": "Nahrát obrázek",
+	"md_s3.error.fileSize": "Soubor je příliš velký",
+	"md_s3.error.fileType": "Neplatný typ souboru"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tofeiku"
+		]
+	},
+	"md_s3.toolbar.image_upload.title": "Muat naik gambar",
+	"md_s3.error.fileSize": "Fail terlalu besar",
+	"md_s3.error.fileType": "Jenis fail tidak sah"
+}

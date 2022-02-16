@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yahya"
+		]
+	},
+	"md_s3.toolbar.image_upload.title": "চিত্র আপলোড",
+	"md_s3.error.fileSize": "ফাইল খুবই বড়",
+	"md_s3.error.fileType": "অকার্যকর ফাইল টাইপ"
+}

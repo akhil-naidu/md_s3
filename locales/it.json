@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"md_s3.toolbar.image_upload.title": "Carica immagine",
+	"md_s3.error.fileSize": "File troppo grande! La dimensione massima consentita è di {{maxallowed}} MB.",
+	"md_s3.error.fileType": "Tipo di file non valido!"
+}
